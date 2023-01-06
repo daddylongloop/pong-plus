@@ -1,0 +1,7 @@
+altgraph==0.17.3
+autopep8==2.0.0
+pycodestyle==2.10.0
+pygame==2.1.2
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2022.14
+tomli==2.0.1
